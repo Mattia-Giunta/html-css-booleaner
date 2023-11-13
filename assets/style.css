@@ -16,3 +16,24 @@ img {
     height: 70px;
 }
 
+h1 {
+    font-size: 50px;
+}
+
+#words-blue {
+    color: aqua;
+    font-size: 25px;
+}
+
+.gray-words {
+    color:grey;
+    font-size: 25px;
+}
+
+.tim-photo {
+    height: 400px;
+}
+
+.photo-description {
+    font-size: 15px;
+}
